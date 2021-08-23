@@ -1,6 +1,6 @@
-### api_auth
+## api_auth
 
-#### Ferramentas
+### Ferramentas
 
 - <strong>Ambiente de desenvolvimento:</strong> Laradock
 - <strong>Laravel:</strong> 8
