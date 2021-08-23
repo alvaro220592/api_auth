@@ -8,4 +8,5 @@
 - <strong>MySQL:</strong> 5.7
 - <strong>API Client:</strong> Postman
 - <strong>Autenticação:</strong> Sanctum com Laravel Jetstream e Livewire
+- <strong>Sistema Operacional:</strong> Linux Mint
 
