@@ -2,7 +2,7 @@
 
 #### Ferramentas
 
-<strong>Ambiente de desenvolvimento:</strong> Laradock
+ > <strong>Ambiente de desenvolvimento:</strong> Laradock
 <strong>Laravel:</strong> 8
 <strong>PHP:</strong> 7.4
 <strong>MySQL:</strong> 5.7
